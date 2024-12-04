@@ -78,7 +78,6 @@ pub fn part_two(_input: &str) -> Option<u32> {
                     continue 'lines;
                 }
             }
-            println!("Report {line} unsafe :(")
         }
     }
 
